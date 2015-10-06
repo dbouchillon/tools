@@ -7,3 +7,5 @@ set pastetoggle=<F2>
 
 set autoindent
 hi Comment ctermfg=Cyan
+
+set nu
