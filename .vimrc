@@ -9,3 +9,4 @@ set autoindent
 hi Comment ctermfg=Cyan
 
 set nu
+set nocp
